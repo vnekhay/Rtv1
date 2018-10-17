@@ -7,7 +7,8 @@ to create a 3D primitives: cone, plane, sphere, cylinder
 make && ./Rtv1 [1-6]
 ```
 # Actions
-* Use r/l arrows to rotate <- ->, up and down arrows to zoom/unzoom
+* Use right/left arrows to rotate <- ->
+* Use up and down arrows to zoom/unzoom
 * Tap space for default settings
 # Example
 ![](https://raw.githubusercontent.com/vnekhay/Rtv1/master/Rtv1_gif.gif)
